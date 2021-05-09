@@ -1,5 +1,6 @@
 ul {
-    display:inline;
+    display:flex;
+    flex-direction: column;
     background-color: green;
     width:900px;
     height:900px;
